@@ -6,14 +6,18 @@
       "name": "SamanciMed",
       "bundleIdentifier": "samancimed.SamanciMed",
       "developerName": "Okan Samanci",
-      "version": "1.0",
-      "versionDate": "2026-01-18",
-      "versionDescription": "Initialer Release mit Offline-Modus",
-      "downloadURL": "https://github.com/samancimed/samancimed-ios/raw/main/SamanciMed.ipa",
       "localizedDescription": "Die SamanciMed App für iOS. Inklusive Offline-Rechnern und Tools.",
-      "iconURL": "https://github.com/samancimed/samancimed-ios/raw/main/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/samancimed/samancimed-ios/main/icon.png",
       "tintColor": "#0f172a",
-      "size": 933540
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-01-18",
+          "downloadURL": "https://raw.githubusercontent.com/samancimed/samancimed-ios/main/SamanciMed.ipa",
+          "size": 933540,
+          "localizedDescription": "Initialer Release mit Offline-Modus"
+        }
+      ]
     }
   ]
 }
