@@ -4,7 +4,7 @@
   "apps": [
     {
       "name": "SamanciMed",
-      "bundleIdentifier": "com.samancimed.SamanciMed",
+      "bundleIdentifier": "samancimed.SamanciMed",
       "developerName": "Okan Samanci",
       "version": "1.0",
       "versionDate": "2026-01-18",
